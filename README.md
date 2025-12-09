@@ -1,0 +1,1 @@
+A Plagiarism Checker is a software tool designed to detect similarities between a given text and existing content available across databases, websites, documents, or previous submissions. It helps identify copied, paraphrased, or duplicate text by comparing sentences, keywords, and writing patterns using text-matching algorithms and natural language processing techniques.
